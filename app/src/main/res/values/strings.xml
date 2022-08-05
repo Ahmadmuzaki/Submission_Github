@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Submission_Github</string>
+    <string name="name">Name</string>
+    <string name="placeholder_name">Ahmad Muzaki SA</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+
+    <string-array name="data_name">
+        <item>Sulastri</item>
+        <item>Wawan Setiawan</item>
+        <item>Ciblek Saputra</item>
+        <item>Annisa Putri Puspitasari</item>
+        <item>Indah Kurniasih</item>
+        <item>Ciblek Andika</item>
+        <item>Molor Nurjaman</item>
+        <item>Rina Rahmayani</item>
+        <item>Fina Ramdhani</item>
+        <item>Diki Permana</item>
+    </string-array>
+    <string-array name="data_username">
+        <item>sulastri</item>
+        <item>wawan</item>
+        <item>cibleksa</item>
+        <item>annisaputri</item>
+        <item>indahkurniasih</item>
+        <item>candika</item>
+        <item>nurjaman</item>
+        <item>rinarahmayani</item>
+        <item>finaramdhani</item>
+        <item>dikipermana</item>
+    </string-array>
+    <integer-array name="data_avatar">
+        <item>@drawable/avatar_1</item>
+        <item>@drawable/avatar_2</item>
+        <item>@drawable/avatar_3</item>
+        <item>@drawable/avatar_4</item>
+        <item>@drawable/avatar_5</item>
+        <item>@drawable/avatar_6</item>
+        <item>@drawable/avatar_7</item>
+        <item>@drawable/avatar_8</item>
+        <item>@drawable/avatar_9</item>
+        <item>@drawable/avatar_10</item>
+        <item>@drawable/avatar_11</item>
+        <item>@drawable/avatar_12</item>
+        <item>@drawable/avatar_13</item>
+        <item>@drawable/avatar_14</item>
+        <item>@drawable/avatar_15</item>
+    </integer-array>
+    <string-array name="data_follower">
+        <item>123</item>
+        <item>324</item>
+        <item>154</item>
+        <item>456</item>
+        <item>766</item>
+        <item>976</item>
+        <item>453</item>
+        <item>677</item>
+        <item>234</item>
+        <item>958</item>
+        <item>333</item>
+    </string-array><string-array name="data_following">
+        <item>34</item>
+        <item>54</item>
+        <item>76</item>
+        <item>43</item>
+        <item>12</item>
+        <item>44</item>
+        <item>65</item>
+        <item>76</item>
+        <item>98</item>
+        <item>67</item>
+        <item>45</item>
+    </string-array>
+</resources>
